@@ -26,4 +26,4 @@ This project aims to create a visual application to display the human skeleton's
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/MHermosillo7/ProjectImages/refs/heads/main/SkeletalVisualApp_DemoImage.png?token=GHSAT0AAAAAADM6TLGPRE5OMOO6VFUVMNRM2HK3P3A" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/MHermosillo7/SkeletalSystem_MH_MM/refs/heads/main/SkeletalVisualApp_DemoImage.png" width=50% height=50%>
